@@ -1,0 +1,82 @@
+.container{
+    width:1024px;
+}
+.nav{
+    overflow: hidden;
+
+}
+
+.a{
+    width: 204px;
+    float: left;
+    color: white;
+    background-color: blue;
+}
+
+.b, .c, .d, .e, .f{
+    width: 137px;
+    float: left;
+    color: white;
+    background-color: black;
+}
+
+.image {
+
+    vertical-align: 100%;
+    width: 1024px;
+    height:auto;
+    overflow: hidden;
+
+}
+
+h2{
+    position: absolute;
+    top: 20px;
+    left: 0;
+    width: 10px;
+}
+
+.main {
+    width: 800px;
+    height: auto;
+
+    background-color: whitesmoke;
+    border: 2px solid red;
+    float: left;
+
+}
+
+.btn:hover
+{
+    background-image:none !important;
+    background-color:#ff00ff !important;
+}
+
+.maina{
+    height: auto;
+    width: 100px;
+    background-color: whitesmoke;
+     float: left;
+    color: black;
+    padding: 50px;
+}
+
+
+.mainb{
+    height: auto;
+    width: 100px;
+    background-color: whitesmoke;
+    float: left;
+    margin-left: 25px;
+    padding: 50px;
+}
+.mainc{
+    height: auto;
+    width: 100px;
+    background-color: whitesmoke;
+    navbutton_background_color: orange;
+    float: left;
+    margin-left: 25px;
+    padding: 50px;
+}
+
